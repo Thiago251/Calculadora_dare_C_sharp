@@ -1,0 +1,8 @@
+C:\Users\usuario\Desktop\PROJETOS\C#\CALC DARE\CALC DARE\CALC DARE\bin\Debug\CALC DARE.exe.config
+C:\Users\usuario\Desktop\PROJETOS\C#\CALC DARE\CALC DARE\CALC DARE\bin\Debug\CALC DARE.exe
+C:\Users\usuario\Desktop\PROJETOS\C#\CALC DARE\CALC DARE\CALC DARE\bin\Debug\CALC DARE.pdb
+C:\Users\usuario\Desktop\PROJETOS\C#\CALC DARE\CALC DARE\CALC DARE\obj\Debug\CALC DARE.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PROJETOS\C#\CALC DARE\CALC DARE\CALC DARE\obj\Debug\CALC_DARE.MainForm.resources
+C:\Users\usuario\Desktop\PROJETOS\C#\CALC DARE\CALC DARE\CALC DARE\obj\Debug\CALC DARE.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\PROJETOS\C#\CALC DARE\CALC DARE\CALC DARE\obj\Debug\CALC DARE.exe
+C:\Users\usuario\Desktop\PROJETOS\C#\CALC DARE\CALC DARE\CALC DARE\obj\Debug\CALC DARE.pdb
